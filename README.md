@@ -1,7 +1,17 @@
 # Hi there! I'm Arjun Kushwah 👋
 
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=9f7aea&width=435&lines=Full-Stack+Developer;React+%26+TypeScript+Architect;.NET+Backend+Engineer;Creative+Problem+Solver" alt="Typing SVG" />
+  </a>
+</p>
+
 <p align="center">
   <img src="github_profile_banner.png" alt="Arjun's Tech Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Arjunkushwah672/count.svg" alt="Visitor Count">
 </p>
 
 <p align="center">
@@ -20,11 +30,23 @@
 
 ### 🚀 About Me
 
-I am a passionate **Full-Stack Developer** focused on building clean, efficient, and scalable web applications. Currently, I specialize in the modern web ecosystem (**React, TypeScript, JavaScript**) and backend architectures (**C#, .NET**). 
+I am a passionate **Full-Stack Developer** focused on building clean, efficient, and scalable web applications. Currently, I specialize in the modern web ecosystem (**React, TypeScript, JavaScript**) and backend architectures (**C#, .NET**).
 
 - 💻 I am currently building high-performance React dashboard applications and API architectures.
 - ⚙️ I enjoy solving problems related to state management, clean code principles, and full-stack integration.
 - 📚 Always looking forward to learning new technologies and scaling systems.
+
+---
+
+### 🎮 My Contribution Snake
+
+Below is an interactive view of my contributions being animated in real-time by a custom automated snake bot:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arjunkushwah672/Arjunkushwah672/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arjunkushwah672/Arjunkushwah672/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arjunkushwah672/Arjunkushwah672/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -69,12 +91,12 @@ I am a passionate **Full-Stack Developer** focused on building clean, efficient,
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjunkushwah672&show_icons=true&theme=tokyonight&hide_border=true&title_color=9f7aea&icon_color=ff79c6" alt="Arjun's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunkushwah672&layout=compact&theme=tokyonight&hide_border=true&title_color=9f7aea" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjunkushwah672&show_icons=true&theme=tokyonight&hide_border=true&title_color=bf5af2&icon_color=bf5af2&text_color=a0aec0&bg_color=0D1117" alt="Arjun's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunkushwah672&layout=compact&theme=tokyonight&hide_border=true&title_color=bf5af2&icon_color=bf5af2&text_color=a0aec0&bg_color=0D1117" alt="Top Languages" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunkushwah672&theme=tokyonight&hide_border=true&stroke=ff79c6&ring=ff79c6&fire=ff79c6" alt="GitHub Streak Stats" width="98%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunkushwah672&theme=tokyonight&hide_border=true&stroke=bf5af2&ring=bf5af2&fire=bf5af2&bg_color=0D1117" alt="GitHub Streak Stats" width="98%">
 </p>
 
 ---
